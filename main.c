@@ -1,5 +1,6 @@
-int main( ){
+int main(void)
+{
+    int v;
 
-int v;
-
-};
+    return 0;
+}
